@@ -29,7 +29,7 @@ to the Windows path (replace Python2x with the correct directory).
 Configuration
 -------------
 
-Create a ``.crodwin`` JSON file in your root project directory with the
+Create a ``.crowdin`` JSON file in your root project directory with the
 following structure::
 
     {
